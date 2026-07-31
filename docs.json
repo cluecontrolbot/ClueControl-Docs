@@ -1,0 +1,51 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "maple",
+  "name": "ClueControl",
+  "colors": {
+    "primary": "#FFA500",
+    "light": "#FFA500",
+    "dark": "#FFA500"
+  },
+  "icons": {
+    "library": "fontawesome"
+  },
+  "favicon": {
+    "light": "/favicon.png",
+    "dark": "/favicon.png"
+  },
+  "navigation": {
+    "languages": [
+      {
+        "$ref": "./en.json"
+      },
+      {
+        "$ref": "./ru.json"
+      }
+    ]
+  },
+  "logo": {
+    "light": "/icons/Banner-ERLC-Russia-Docs-System.svg",
+    "dark": "/icons/Banner-ERLC-Russia-Docs-System.svg"
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
+  },
+  "background": {
+    "color": {
+      "dark": "#0A0A0A"
+    }
+  },
+  "appearance": {
+    "default": "dark"
+  }
+}

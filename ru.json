@@ -1,0 +1,259 @@
+{
+  "language": "ru",
+  "tabs": [
+    {
+      "tab": "Правила Сервера",
+      "icon": "shield-halved",
+      "pages": [
+        "ru/index",
+        {
+          "group": "Основные Правила",
+          "icon": "book",
+          "pages": [
+            "ru/server-rules/general-rules/server-rules",
+            "ru/server-rules/general-rules/rp-terms",
+            "ru/server-rules/general-rules/discord-rules",
+            "ru/server-rules/general-rules/event-rules"
+          ]
+        },
+        {
+          "group": "Правила Фракций",
+          "icon": "users",
+          "pages": [
+            "ru/server-rules/fractions-rules/fractions-rules",
+            "ru/server-rules/fractions-rules/lider-rules"
+          ]
+        },
+        {
+          "group": "Гражданские Операции",
+          "icon": "shop",
+          "pages": [
+            "ru/server-rules/civilian-operations/busines-rules",
+            "ru/server-rules/civilian-operations/opg-rules"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Правила Персонала",
+      "icon": "user-shield",
+      "pages": [
+        {
+          "group": "Основные Положения",
+          "icon": "scroll",
+          "pages": [
+            "ru/staff/general/staff-rights",
+            "ru/staff/general/ethical-norms"
+          ]
+        },
+        {
+          "group": "Правила Персонала",
+          "icon": "scale-balanced",
+          "pages": [
+            "ru/staff/staff-rules/erlc-staff-rules",
+            "ru/staff/staff-rules/curator-rules",
+            "ru/staff/staff-rules/pr-rules"
+          ]
+        },
+        {
+          "group": "Гайды Для Персонала",
+          "pages": [
+            "ru/staff/guides/erlc-staff-commands",
+            "ru/staff/guides/erlc-staff-handbook"
+          ],
+          "icon": "compass"
+        }
+      ]
+    },
+    {
+      "tab": "История Изменений",
+      "icon": "clock-rotate-left",
+      "pages": [
+        "ru/changelogs/index",
+        {
+          "group": "История Изменений MRP",
+          "icon": "list",
+          "pages": [
+            {
+              "group": "Обновление V0.5",
+              "icon": "folder",
+              "pages": [
+                "ru/changelogs/changelog-v0.5/changelog-v0.5.2",
+                "ru/changelogs/changelog-v0.5/changelog-v0.5.1"
+              ]
+            },
+            {
+              "group": "Обновление V0.4",
+              "icon": "folder",
+              "pages": [
+                "ru/changelogs/changelog-v0.4/changelog-v0.4.1"
+              ]
+            },
+            {
+              "group": "Обновление V0.3",
+              "icon": "folder",
+              "pages": [
+                "ru/changelogs/changelog-v0.3/changelog-v0.3.3",
+                "ru/changelogs/changelog-v0.3/changelog-v0.3.2",
+                "ru/changelogs/changelog-v0.3/changelog-v0.3.1"
+              ]
+            },
+            {
+              "group": "Обновление V0.2",
+              "icon": "folder",
+              "pages": [
+                "ru/changelogs/changelog-v0.2/changelog-v0.2.3",
+                "ru/changelogs/changelog-v0.2/changelog-v0.2.2",
+                "ru/changelogs/changelog-v0.2/changelog-v0.2.1"
+              ]
+            },
+            {
+              "group": "Обновление V0.1",
+              "icon": "folder",
+              "pages": [
+                "ru/changelogs/changelog-v0.1/changelog-v0.1.3",
+                "ru/changelogs/changelog-v0.1/changelog-v0.1.2",
+                "ru/changelogs/changelog-v0.1/changelog-v0.1.1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Гайды",
+      "icon": "book-open",
+      "pages": [
+        {
+          "group": "Гайды",
+          "icon": "atlas",
+          "pages": [
+            "ru/guides/index"
+          ]
+        },
+        {
+          "group": "Форумы",
+          "icon": "comments",
+          "pages": [
+            "ru/guides/forums/publication-rules"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Возможности Документации",
+      "icon": "clipboard-list",
+      "pages": [
+        {
+          "group": "Инструменты",
+          "icon": "terminal",
+          "pages": [
+            "ru/docs-features/mcp-server"
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "socials": {
+      "discord": "https://discord.gg/MoscowRus",
+      "x": "https://x.com/erlcrussia",
+      "telegram": "https://t.me/erlcrussia",
+      "youtube": "https://www.youtube.com/@erlcrussia",
+      "instagram": "https://www.tiktok.com/@erlcrussia",
+      "linkedin": "https://www.roblox.com/share/g/688514761"
+    },
+    "links": [
+      {
+        "header": " ",
+        "items": [
+          {
+            "label": " ",
+            "href": "https://erlcrussia.com/privacy"
+          },
+          {
+            "label": " ",
+            "href": "https://erlcrussia.com/terms"
+          }
+        ]
+      },
+      {
+        "header": "ClueControl",
+        "items": [
+          {
+            "label": "Вики",
+            "href": "/ru"
+          },
+          {
+            "label": "История Изменений",
+            "href": "/ru/changelogs"
+          },
+          {
+            "label": "Правила Персонала",
+            "href": "/ru/staff-rules"
+          },
+          {
+            "label": "Начать Играть",
+            "href": "/ru/guides"
+          },
+          {
+            "label": "API",
+            "href": "https://api.erlcrussia.xyz"
+          },
+          {
+            "label": "Статус",
+            "href": "https://status.erlcrussia.com"
+          }
+        ]
+      },
+      {
+        "header": "Продукты",
+        "items": [
+          {
+            "label": "Магазин",
+            "href": "https://erlcrussia.com/store"
+          },
+          {
+            "label": "Moscow RolePlay",
+            "href": "https://erlcrussia.com/moscowroleplay"
+          }
+        ]
+      },
+      {
+        "header": "Документы",
+        "items": [
+          {
+            "label": "Приватность",
+            "href": "https://erlcrussia.com/privacy"
+          },
+          {
+            "label": "Условия",
+            "href": "https://erlcrussia.com/terms"
+          }
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Поддержка",
+        "href": "https://discord.gg/MoscowRus"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Вход",
+      "href": "https://erlcrussia.com/login"
+    }
+  },
+  "global": {
+    "anchors": [
+      {
+        "anchor": "Наш Discord",
+        "icon": "discord",
+        "href": "https://discord.gg/MoscowRus"
+      }
+    ]
+  }
+}

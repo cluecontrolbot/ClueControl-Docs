@@ -1,0 +1,259 @@
+{
+  "language": "en",
+  "tabs": [
+    {
+      "tab": "Server Rules",
+      "icon": "shield-halved",
+      "pages": [
+        "en/index",
+        {
+          "group": "General Rules",
+          "icon": "book",
+          "pages": [
+            "en/server-rules/general-rules/server-rules",
+            "en/server-rules/general-rules/rp-terms",
+            "en/server-rules/general-rules/discord-rules",
+            "en/server-rules/general-rules/event-rules"
+          ]
+        },
+        {
+          "group": "Faction Rules",
+          "icon": "users",
+          "pages": [
+            "en/server-rules/fractions-rules/fractions-rules",
+            "en/server-rules/fractions-rules/lider-rules"
+          ]
+        },
+        {
+          "group": "Civilian Operations",
+          "icon": "shop",
+          "pages": [
+            "en/server-rules/civilian-operations/busines-rules",
+            "en/server-rules/civilian-operations/opg-rules"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Staff Rules",
+      "icon": "user-shield",
+      "pages": [
+        {
+          "group": "General Provisions",
+          "icon": "scroll",
+          "pages": [
+            "en/staff/general/staff-rights",
+            "en/staff/general/ethical-norms"
+          ]
+        },
+        {
+          "group": "Staff Rules",
+          "icon": "scale-balanced",
+          "pages": [
+            "en/staff/staff-rules/erlc-staff-rules",
+            "en/staff/staff-rules/curator-rules",
+            "en/staff/staff-rules/pr-rules"
+          ]
+        },
+        {
+          "group": "Staff Guides",
+          "pages": [
+            "en/staff/guides/erlc-staff-commands",
+            "en/staff/guides/erlc-staff-handbook"
+          ],
+          "icon": "compass"
+        }
+      ]
+    },
+    {
+      "tab": "Changelogs",
+      "icon": "clock-rotate-left",
+      "pages": [
+        "en/changelogs/index",
+        {
+          "group": "MRP Changelogs",
+          "icon": "list",
+          "pages": [
+            {
+              "group": "Update V0.5",
+              "icon": "folder",
+              "pages": [
+                "en/changelogs/changelog-v0.5/changelog-v0.5.2",
+                "en/changelogs/changelog-v0.5/changelog-v0.5.1"
+              ]
+            },
+            {
+              "group": "Update V0.4",
+              "icon": "folder",
+              "pages": [
+                "en/changelogs/changelog-v0.4/changelog-v0.4.1"
+              ]
+            },
+            {
+              "group": "Update V0.3",
+              "icon": "folder",
+              "pages": [
+                "en/changelogs/changelog-v0.3/changelog-v0.3.3",
+                "en/changelogs/changelog-v0.3/changelog-v0.3.2",
+                "en/changelogs/changelog-v0.3/changelog-v0.3.1"
+              ]
+            },
+            {
+              "group": "Update V0.2",
+              "icon": "folder",
+              "pages": [
+                "en/changelogs/changelog-v0.2/changelog-v0.2.3",
+                "en/changelogs/changelog-v0.2/changelog-v0.2.2",
+                "en/changelogs/changelog-v0.2/changelog-v0.2.1"
+              ]
+            },
+            {
+              "group": "Update V0.1",
+              "icon": "folder",
+              "pages": [
+                "en/changelogs/changelog-v0.1/changelog-v0.1.3",
+                "en/changelogs/changelog-v0.1/changelog-v0.1.2",
+                "en/changelogs/changelog-v0.1/changelog-v0.1.1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Guides",
+      "icon": "book-open",
+      "pages": [
+        {
+          "group": "Guides",
+          "icon": "atlas",
+          "pages": [
+            "en/guides/index"
+          ]
+        },
+        {
+          "group": "Forums",
+          "icon": "comments",
+          "pages": [
+            "en/guides/forums/publication-rules"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Documentation Features",
+      "icon": "clipboard-list",
+      "pages": [
+        {
+          "group": "Tools",
+          "icon": "terminal",
+          "pages": [
+            "en/docs-features/mcp-server"
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "socials": {
+      "discord": "https://discord.gg/MoscowRus",
+      "x": "https://x.com/erlcrussia",
+      "telegram": "https://t.me/erlcrussia",
+      "youtube": "https://www.youtube.com/@erlcrussia",
+      "instagram": "https://www.tiktok.com/@erlcrussia",
+      "linkedin": "https://www.roblox.com/share/g/688514761"
+    },
+    "links": [
+      {
+        "header": " ",
+        "items": [
+          {
+            "label": " ",
+            "href": "https://erlcrussia.com/privacy"
+          },
+          {
+            "label": " ",
+            "href": "https://erlcrussia.com/terms"
+          }
+        ]
+      },
+      {
+        "header": "ClueControl",
+        "items": [
+          {
+            "label": "Wiki",
+            "href": "/en"
+          },
+          {
+            "label": "Changelogs",
+            "href": "/en/changelogs"
+          },
+          {
+            "label": "Staff Rules",
+            "href": "/en/staff-rules"
+          },
+          {
+            "label": "Start Playing",
+            "href": "/en/guides"
+          },
+          {
+            "label": "API",
+            "href": "https://api.erlcrussia.xyz"
+          },
+          {
+            "label": "Status",
+            "href": "https://status.erlcrussia.com"
+          }
+        ]
+      },
+      {
+        "header": "Products",
+        "items": [
+          {
+            "label": "Store",
+            "href": "https://erlcrussia.com/store"
+          },
+          {
+            "label": "Moscow RolePlay",
+            "href": "https://erlcrussia.com/moscowroleplay"
+          }
+        ]
+      },
+      {
+        "header": "Legal",
+        "items": [
+          {
+            "label": "Privacy",
+            "href": "https://erlcrussia.com/privacy"
+          },
+          {
+            "label": "Terms",
+            "href": "https://erlcrussia.com/terms"
+          }
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "https://discord.gg/MoscowRus"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Login",
+      "href": "https://erlcrussia.com/login"
+    }
+  },
+  "global": {
+    "anchors": [
+      {
+        "anchor": "Our Discord",
+        "icon": "discord",
+        "href": "https://discord.gg/MoscowRus"
+      }
+    ]
+  }
+}
